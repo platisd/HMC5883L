@@ -1,2 +1,3 @@
-# HMC5883L
-HMC5883L library by loveelectronics.co.uk
+#HMC5883L Driver (3-Axis Magnetometer) #
+
+This driver is for the Sparkfun HMC5883L Breakout
